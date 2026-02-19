@@ -113,7 +113,7 @@
     <form action="https://api.web3forms.com/submit" method="POST">
 
       <!-- Web3Forms Access Key -->
-      <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+      <input type="hidden" name="access_key" value="40d37968-d566-4a66-a737-9d946955f6df">
 
       <!-- Reporter Info -->
       <div class="form-group">
